@@ -1,0 +1,53 @@
+header {
+	font-family: futura;
+	font-size: 40px;
+	background-color: #FFCCCC;
+	text-align: center;
+	color: #663300;
+}
+body {
+	text-align: center;
+	background-color: #ead4a5;
+	font-family: futura; 
+	font-size: 30px;
+	color: #663300;
+}
+table {
+	position: center;
+	background: url("http://i.imgur.com/J0QcuV9.jpg"); 
+	background-image: center;
+	background-attachment: fixed;
+	text-align: center;
+	color: #663300;
+	font-family: futura;
+}
+h1, h2, h3 {
+    font-family: futura;
+    display: inline;
+    color: #663300;
+}
+img {
+	border-radius: 25px;
+	border: 2px solid #e9b977;
+	display: inline;
+	box-shadow: 10px 10px #e9b977;
+}
+img:hover {
+	border-radius: 25px;
+	border: 2px solid #FFCCCC;
+	display: inline;
+	box-shadow: 10px 10px #FFCCCC;
+}
+div:hover {
+	transform: rotate(20deg);
+	transform: matrix(1, -0.3, 0, 1, 0, 0);
+}
+/*.checkbox {
+	width: 16px;
+    height: 16px;
+	display: inline-block;
+	position: relative;
+	z-index: 1;
+	top: 3px;
+	background: white;
+    } */

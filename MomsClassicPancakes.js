@@ -1,3 +1,5 @@
 $(document).ready(function() {
-	console.log("Script included!");
+	$("img").click(function(event) {
+		$(this).hide("fast");
+	});
 });

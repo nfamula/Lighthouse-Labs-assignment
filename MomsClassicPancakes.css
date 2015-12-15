@@ -42,7 +42,7 @@ div:hover {
 	transform: rotate(20deg);
 	transform: matrix(1, -0.3, 0, 1, 0, 0);
 }
-/*.checkbox {
+.checkbox {
 	width: 16px;
     height: 16px;
 	display: inline-block;

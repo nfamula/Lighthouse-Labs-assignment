@@ -1,4 +1,4 @@
-# Lighthouse-Labs- assignment
+# Lighthouse-Labs- prepwork
 prepwork for Jan 2016 cohort Toronto
 ....... 
 About Mom's Classic Pancakes: 

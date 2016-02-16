@@ -1,5 +1,6 @@
 # Lighthouse-Labs- prepwork
-prepwork for Jan 2016 cohort Toronto
+prepwork for Jan 2016 completed Dec 2016.
+html/css/js
 ....... 
 About Mom's Classic Pancakes: 
 A simple recpie, designed to be friendly and appealing for kids to make with their caregiver when mom is not home. This is an actual recpie my mom used to make, taken from the Pillsbury Cookbook. 
